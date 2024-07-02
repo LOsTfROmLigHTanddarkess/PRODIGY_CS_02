@@ -1,3 +1,3 @@
-# Task2 - Tic Tac Toe AI
-- This is a Tic Tac Toe AI created using python
-- The AI will be triggered at every other move, the first move is the player's
+# TASK 02 - Pixel Manipulation for Image Encryption
+
+Develop a simple image encryption tool using pixel manipulation. You can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. Allow users to encrypt and decrypt images.
